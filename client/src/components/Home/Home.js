@@ -10,9 +10,9 @@ export default class Home extends Component {
          Home
          </Link>
          <br/>
-         <Link  to="/SignUp"> <button className="App-link">Sign Up</button></Link>
+         <Link  to="/signup"> <button className="App-link">Sign Up</button></Link>
          <br/>
-         <Link  to="/Login"> <button className="App-link">Login</button></Link>
+         <Link  to="/login"> <button className="App-link">Login</button></Link>
        
 
       </div>
